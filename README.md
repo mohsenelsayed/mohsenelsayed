@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mohsenelsayed
 - 👀 I’m interested in modern web applications
-- 🌱 I’m currently learning neural networks and deep learning
-- 💞️ I’m looking to collaborate on open source web technologies
+- 💞️ I’m looking to create more web apps
 - 📫 Reach me at mohsenalsayed4@gmail.com
